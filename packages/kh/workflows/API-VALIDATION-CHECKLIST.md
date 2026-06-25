@@ -1,6 +1,6 @@
 # API Integration Validation Checklist
 
-## Purpose
+## Purpose is simple
 This document tracks the integration of IDE extension commands with the new AIShelf API to identify:
 - Missing API endpoints
 - Missing request/response fields
